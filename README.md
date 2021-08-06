@@ -104,7 +104,6 @@ Preguntas
 - De algunos colores y del tipo de curva en el grafico de rendimiento.
 
 2)¿A qué se pueden deber las diferencias en cada corrida?
--
 -Puede deberse por las distintas y variadas tareas externas que esta haciendo el computador. 
 
 3)El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
@@ -117,8 +116,7 @@ Preguntas
 -
 
 
-
-![image](https://user-images.githubusercontent.com/88512479/128568734-93bf2493-7450-410d-96d0-45893d9df7cf.png)
+![image](https://user-images.githubusercontent.com/88512479/128570964-fab84a73-c608-4070-b98e-4da0c2ad284e.png)
 
 
 
