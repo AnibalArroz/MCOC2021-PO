@@ -83,3 +83,16 @@ Proveedor internet: GTD Manquehue. Fibra optica
 
 
 
+
+P0E2
+Preguntas
+
+1)¿Cómo difiere del gráfico del profesor/ayudante?
+-
+
+
+
+
+
+
+
