@@ -116,7 +116,9 @@ Preguntas
 - 2019.0.117
 
 6)Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen (screenshot) de su uso de procesador durante alguna corrida para confirmar. 
+
 ![image](https://user-images.githubusercontent.com/88512479/128574493-4e8d9fc7-5a64-4627-a67f-05d6a5ca87e1.png)
+
 En mi caso se utiliza solamente un procesador
 
 Desempeño MATMUL
