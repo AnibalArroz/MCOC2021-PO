@@ -97,6 +97,27 @@ Proveedor internet: GTD Manquehue. Fibra optica
 -
 -
 
+P0E2
+Preguntas
+
+1)¿Cómo difiere del gráfico del profesor/ayudante?
+- De algunos colores y del tipo de curva en el grafico de rendimiento.
+
+2)¿A qué se pueden deber las diferencias en cada corrida?
+-Puede deberse por las distintas y variadas tareas externas que esta haciendo el computador. 
+
+3)El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
+- Es debido a que primero los procesadores usan las memorias "cache", luego los calculos mas complejos los toma otro segmento que trabaja mas rapido y asi. Esto es debido a que el computador asigna jerarquicamente los problemas y recursos viendo el contexto y las dimenciones del problema. 
+
+4)¿Qué versión de python está usando?
+- 3.7
+
+5)¿Qué versión de numpy está usando?
+-
+
+
+
+![image](https://user-images.githubusercontent.com/88512479/128568734-93bf2493-7450-410d-96d0-45893d9df7cf.png)
 
 
 
