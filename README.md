@@ -115,6 +115,8 @@ Preguntas
 5)¿Qué versión de numpy está usando?
 - 2019.0.117
 
+Desempeño MATMUL
+
 
 ![image](https://user-images.githubusercontent.com/88512479/128570964-fab84a73-c608-4070-b98e-4da0c2ad284e.png)
 
