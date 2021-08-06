@@ -80,15 +80,27 @@ Dirección IP (Externa, del ISP): 190.215.234.150
 
 Proveedor internet: GTD Manquehue. Fibra optica
 
-
-
-
-
-P0E2
-Preguntas
-
-1)¿Cómo difiere del gráfico del profesor/ayudante?
 -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+
+
+
 
 
 
