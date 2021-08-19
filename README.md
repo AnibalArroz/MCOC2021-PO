@@ -129,10 +129,80 @@ Desempeño MATMUL
 
 
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+-
+--
+-
+-
+-
+-
+
+P0E3
+
+codigo caso 2 timing_inv_caso_2_half
+
+
+
+![image](https://user-images.githubusercontent.com/88512479/130005772-8134ea7c-95ce-4adc-b337-89602b51a812.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130005789-244bcc0c-ad9e-42db-9358-4403584e5a0a.png)
+
+-
+-
+-
+
+codigo caso 2 timing_inv_caso_2_single
 
 
 
 
+![image](https://user-images.githubusercontent.com/88512479/130006085-eb5dde5a-fe28-45c7-a7ad-c18f1646cd8e.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130006092-359e8e45-d839-467f-8a93-f61797b4afff.png)
+
+
+-
+-
+-
+
+codigo caso 2 timing_inv_caso_2_double
+
+
+
+![image](https://user-images.githubusercontent.com/88512479/130006442-4dc29569-d353-4fbe-b1e2-05a204e051d9.png)
+
+![image](https://user-images.githubusercontent.com/88512479/130006450-06540ed7-d68a-44b7-93c8-a59b689594b2.png)
+
+
+-
+-
+-
+
+codigo caso 2 timing_inv_caso_2_longdouble
+
+
+
+
+![image](https://user-images.githubusercontent.com/88512479/130006675-dff86449-6e3c-4a70-acd0-77c2a3489355.png)
+
+![image](https://user-images.githubusercontent.com/88512479/130006848-25c105ad-8632-460c-a10b-2ed657fb3232.png)
 
 
 
