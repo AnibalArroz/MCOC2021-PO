@@ -299,8 +299,10 @@ ERROR
 PREGUNTAS A RESPONDER
 
 ¿Qué algoritmo de inversión cree que utiliza cada método (ver wiki)? Justifique claramente su respuesta. 
+El caso de numpy, usa el algoritmo Strassen, porque lleva los datos a la memoria caché y no las operaciones aritmeticas reales sobre esos datos.
 
-
+¿Como incide el paralelismo y la estructura de caché de su procesador en el desempeño en cada caso? Justifique su comentario en base al uso de procesadores y memoria observado durante las corridas. 
+Se puede notar en los distintos caché de los 4 graficos segun los casos, que estos cambian debido a que se esta usando otra parte del procesador mas destinado al comando del cual se usa. 
 
 
 
