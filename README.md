@@ -292,12 +292,13 @@ codigo caso 1 timing_inv_caso_1_longdouble
 
 ERROR
 
-
+-
+-
 
 
 PREGUNTAS A RESPONDER
 
-
+¿Qué algoritmo de inversión cree que utiliza cada método (ver wiki)? Justifique claramente su respuesta. 
 
 
 
