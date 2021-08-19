@@ -253,6 +253,51 @@ codigo caso 3 timing_inv_caso_3_longdouble
 ![image](https://user-images.githubusercontent.com/88512479/130008879-50854716-2e0a-4552-96b2-9ecc54082d61.png)
 
 
+-
+-
+-
+
+codigo caso 1 timing_inv_caso_1_half
+
+ERROR
+
+-
+-
+-
+
+codigo caso 1 timing_inv_caso_1_single
+
+![image](https://user-images.githubusercontent.com/88512479/130009712-7327f4c7-34e3-4e87-a2c0-a53133aeefa4.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130009728-6dee348d-5eb0-4024-a7cc-155ff9dac102.png)
+
+-
+-
+-
+
+codigo caso 1 timing_inv_caso_1_double
+
+
+![image](https://user-images.githubusercontent.com/88512479/130010022-d89cc496-f685-4fb8-8895-bcf93c428559.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130010032-3b2a12a9-d381-47ea-bc35-f834065fd1e6.png)
+
+-
+-
+-
+
+codigo caso 1 timing_inv_caso_1_longdouble
+
+ERROR
+
+
+
+
+
+
+
 
 
 
