@@ -1,0 +1,84 @@
+Matriz de 10x10
+Uso memoria: 0.0007999999999999999 bytes MB
+Tiempo inversion: 0.31427425099536777 s
+Matriz de 15x15
+Uso memoria: 0.0018 bytes MB
+Tiempo inversion: 0.027081258012913167 s
+Matriz de 20x20
+Uso memoria: 0.0031999999999999997 bytes MB
+Tiempo inversion: 0.0001264300080947578 s
+Matriz de 30x30
+Uso memoria: 0.0072 bytes MB
+Tiempo inversion: 0.016175135999219492 s
+Matriz de 40x40
+Uso memoria: 0.012799999999999999 bytes MB
+Tiempo inversion: 0.0005976280081085861 s
+Matriz de 50x50
+Uso memoria: 0.02 bytes MB
+Tiempo inversion: 0.0005892299814149737 s
+Matriz de 60x60
+Uso memoria: 0.0288 bytes MB
+Tiempo inversion: 0.00046746499720029533 s
+Matriz de 70x70
+Uso memoria: 0.0392 bytes MB
+Tiempo inversion: 0.0005575059913098812 s
+Matriz de 80x80
+Uso memoria: 0.051199999999999996 bytes MB
+Tiempo inversion: 0.0005467750015668571 s
+Matriz de 100x100
+Uso memoria: 0.08 bytes MB
+Tiempo inversion: 0.0006302850088104606 s
+Matriz de 130x130
+Uso memoria: 0.1352 bytes MB
+Tiempo inversion: 0.0008043019915930927 s
+Matriz de 160x160
+Uso memoria: 0.20479999999999998 bytes MB
+Tiempo inversion: 0.0044656459940597415 s
+Matriz de 200x200
+Uso memoria: 0.32 bytes MB
+Tiempo inversion: 0.04314022799371742 s
+Matriz de 300x300
+Uso memoria: 0.72 bytes MB
+Tiempo inversion: 0.005556398013141006 s
+Matriz de 400x400
+Uso memoria: 1.28 bytes MB
+Tiempo inversion: 0.033441958017647266 s
+Matriz de 500x500
+Uso memoria: 2.0 bytes MB
+Tiempo inversion: 0.023167520004790276 s
+Matriz de 650x650
+Uso memoria: 3.38 bytes MB
+Tiempo inversion: 0.03785441900254227 s
+Matriz de 800x800
+Uso memoria: 5.12 bytes MB
+Tiempo inversion: 0.0607256900111679 s
+Matriz de 900x900
+Uso memoria: 6.4799999999999995 bytes MB
+Tiempo inversion: 0.07735103098093532 s
+Matriz de 1000x1000
+Uso memoria: 8.0 bytes MB
+Tiempo inversion: 0.10018358097295277 s
+Matriz de 1500x1500
+Uso memoria: 18.0 bytes MB
+Tiempo inversion: 0.28422258302452974 s
+Matriz de 2000x2000
+Uso memoria: 32.0 bytes MB
+Tiempo inversion: 0.6697176309826318 s
+Matriz de 2500x2500
+Uso memoria: 50.0 bytes MB
+Tiempo inversion: 1.1216678530036006 s
+Matriz de 3500x3500
+Uso memoria: 98.0 bytes MB
+Tiempo inversion: 2.6251708090130705 s
+Matriz de 5000x5000
+Uso memoria: 200.0 bytes MB
+Tiempo inversion: 7.232665182003984 s
+Matriz de 6000x6000
+Uso memoria: 288.0 bytes MB
+Tiempo inversion: 12.073270273016533 s
+Matriz de 8000x8000
+Uso memoria: 512.0 bytes MB
+Tiempo inversion: 28.064535859011812 s
+Matriz de 10000x10000
+Uso memoria: 800.0 bytes MB
+Tiempo inversion: 54.07031245998223 s
