@@ -205,4 +205,58 @@ codigo caso 2 timing_inv_caso_2_longdouble
 ![image](https://user-images.githubusercontent.com/88512479/130006848-25c105ad-8632-460c-a10b-2ed657fb3232.png)
 
 
+-
+-
+-
+
+codigo caso 3 timing_inv_caso_3_half
+
+![image](https://user-images.githubusercontent.com/88512479/130007925-9a46fa2b-50b4-42ee-8428-55826ce70c9d.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130007937-d927479f-50c2-4f6a-9098-570374454bc6.png)
+
+
+-
+-
+-
+
+codigo caso 3 timing_inv_caso_3_single
+
+![image](https://user-images.githubusercontent.com/88512479/130008097-da3656da-66fe-4a60-9d72-edf52791b6d0.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130008106-29a201e6-2d27-4597-8d09-99d1a03306bd.png)
+
+-
+-
+-
+
+
+codigo caso 3 timing_inv_caso_3_double
+
+![image](https://user-images.githubusercontent.com/88512479/130008548-e9826a71-e532-4074-b3b2-80d0a6fb0cde.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130008559-f22a0b9f-9c92-4e5a-9780-2e7713d73d26.png)
+
+
+-
+-
+-
+
+codigo caso 3 timing_inv_caso_3_longdouble
+
+![image](https://user-images.githubusercontent.com/88512479/130008865-27e23b12-a337-4866-a202-15efae9eed56.png)
+
+
+![image](https://user-images.githubusercontent.com/88512479/130008879-50854716-2e0a-4552-96b2-9ecc54082d61.png)
+
+
+
+
+
+
+
+
 
