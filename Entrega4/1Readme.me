@@ -1,3 +1,32 @@
 
-Haga un comentario completo respecto de todo lo que ve en términos de desempeño en cada problema. ¿Como es la variabilidad del tiempo de ejecucion para cada algoritmo? ¿Qué algoritmo gana (en promedio) en cada caso? ¿Depende del tamaño de la matriz? ¿A que se puede deber la superioridad de cada opción? ¿Su computador usa más de un proceso por cada corrida? ¿Que hay del uso de memoria (como crece)? 
+Hola Omar, esta es mi entrega 4. 
+En la carpeta "Entrega4" se vera directamente este readme y luego los textos de los codigos en formato timing_matmul. 
+Debajo de ellos estan todos los graficos.png, archivos de textos.txt y ademas los codigos.py nuevamente de las 16 corridas ordenadas por sus respectivos nombres que les asigne.
+
+En la parte b) desde el punto "II" al "V", no me corrio "driver", por lo que investigue y pregunte y me dieron e visto bueno para reemplazarlo por el metodo "turbo"
+Debido a la cantidad de rato que se demoraba el programa en ejecutarse, en las ultimas 5 corridas les disminuí la cantidad de matricez a resolver, pero el grafico y todo queda bien.
+
+A continuación contestare las preguntas propuestas.
+
+- 1) Haga un comentario completo respecto de todo lo que ve en términos de desempeño en cada problema. 
+- En cada problema se ve un desempeño correcto a la hora de comparar pero me llamo la atencion como el tiempo de ejecución subia notoriamente y exponencialmente a la hora de agrandar la matriz. Por lo que el desempeño es extremadamente bueno pero un poco lento encontre yo.
+
+- 2) ¿Como es la variabilidad del tiempo de ejecucion para cada algoritmo? 
+- Para el caso "float" note que era ligeramente mas rapido que el caso "double". Tambien me gustaria comentar que con "solve" tambien era mas rapido la ejecución del codigo comparandolo con los problemas "eigh"
+
+- 3) ¿Qué algoritmo gana (en promedio) en cada caso? 
+- En mi caso, gana el algoritmo "float" en algunos casos y ligeramente.
+
+- 4) ¿Depende del tamaño de la matriz?
+- Totalmente, el tiempo crecia exponencialmente a la hora de agrandar la matriz. Y tambien habian matrices que un algoritmo la resolvia mas rapito que el otro, y casos que eran lo contrario. 
+
+
+- 5) ¿A que se puede deber la superioridad de cada opción?
+- Debido a que uno esta mas pensado para matrices chicas y el otro para resolver matricez mas complejas. O que los dos tienen distintas formas para resolverlo y que a veces sale mejor y a veces peor.
+
+- 6) ¿Su computador usa más de un proceso por cada corrida?
+- Si
+
+- 7)¿Que hay del uso de memoria (como crece)? 
+- Crece considerablemente, nunca al 100% pero si a llegado hasta el 30-40% alguna vez en la mitad de alguna de estas corridas.
 
