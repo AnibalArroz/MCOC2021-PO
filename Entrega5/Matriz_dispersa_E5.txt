@@ -1,0 +1,81 @@
+Matriz de 10x10
+Tiempo ensamblaje: 0.002746473008301109 s
+Tiempo solución: 0.00030651199631392956 s
+Matriz de 20x20
+Tiempo ensamblaje: 0.0026531670009717345 s
+Tiempo solución: 0.0003027789935003966 s
+Matriz de 50x50
+Tiempo ensamblaje: 0.0026279739977326244 s
+Tiempo solución: 0.0002799190115183592 s
+Matriz de 100x100
+Tiempo ensamblaje: 0.0024712199810892344 s
+Tiempo solución: 0.00026079200324602425 s
+Matriz de 200x200
+Tiempo ensamblaje: 0.0018054790270980448 s
+Tiempo solución: 0.0001623530115466565 s
+Matriz de 300x300
+Tiempo ensamblaje: 0.0013772020174656063 s
+Tiempo solución: 0.00016515198512934148 s
+Matriz de 500x500
+Tiempo ensamblaje: 0.0013963299861643463 s
+Tiempo solución: 0.00016981700900942087 s
+Matriz de 800x800
+Tiempo ensamblaje: 0.001463043998228386 s
+Tiempo solución: 0.00018521299352869391 s
+Matriz de 1000x1000
+Tiempo ensamblaje: 0.00143691900302656 s
+Tiempo solución: 0.0001931440201587975 s
+Matriz de 2000x2000
+Tiempo ensamblaje: 0.0015974059933796525 s
+Tiempo solución: 0.0002355980104766786 s
+Matriz de 5000x5000
+Tiempo ensamblaje: 0.0024115039850585163 s
+Tiempo solución: 0.00037555801100097597 s
+Matriz de 10000x10000
+Tiempo ensamblaje: 0.0027739990036934614 s
+Tiempo solución: 0.000502454990055412 s
+Matriz de 12000x12000
+Tiempo ensamblaje: 0.0028934309957548976 s
+Tiempo solución: 0.0006433470116462559 s
+Matriz de 15000x15000
+Tiempo ensamblaje: 0.002870103984605521 s
+Tiempo solución: 0.0007954370230436325 s
+Matriz de 20000x20000
+Tiempo ensamblaje: 0.003741586988326162 s
+Tiempo solución: 0.0011014819901902229 s
+Matriz de 40000x40000
+Tiempo ensamblaje: 0.0068911429843865335 s
+Tiempo solución: 0.0020872630120720714 s
+Matriz de 50000x50000
+Tiempo ensamblaje: 0.007271366979693994 s
+Tiempo solución: 0.0036011600168421865 s
+Matriz de 100000x100000
+Tiempo ensamblaje: 0.01754020099178888 s
+Tiempo solución: 0.008749339991481975 s
+Matriz de 200000x200000
+Tiempo ensamblaje: 0.032598452002275735 s
+Tiempo solución: 0.016832005989272147 s
+Matriz de 500000x500000
+Tiempo ensamblaje: 0.09642935101874173 s
+Tiempo solución: 0.04445722801028751 s
+Matriz de 1000000x1000000
+Tiempo ensamblaje: 0.2028326889849268 s
+Tiempo solución: 0.09914503400796093 s
+Matriz de 1500000x1500000
+Tiempo ensamblaje: 0.3063598570006434 s
+Tiempo solución: 0.15335837597376667 s
+Matriz de 2000000x2000000
+Tiempo ensamblaje: 0.40536073202383704 s
+Tiempo solución: 0.19475982000585645 s
+Matriz de 3000000x3000000
+Tiempo ensamblaje: 0.5984951550199185 s
+Tiempo solución: 0.2727378330018837 s
+Matriz de 4000000x4000000
+Tiempo ensamblaje: 0.806056144007016 s
+Tiempo solución: 0.3745131739997305 s
+Matriz de 10000000x10000000
+Tiempo ensamblaje: 1.9936155100003816 s
+Tiempo solución: 0.9080586859781761 s
+Matriz de 20000000x20000000
+Tiempo ensamblaje: 4.097801421012264 s
+Tiempo solución: 1.990912424022099 s
