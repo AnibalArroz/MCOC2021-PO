@@ -1,0 +1,60 @@
+Matriz de 10x10
+Tiempo ensamblaje: 0.0017746869998518378 s
+Tiempo solución: 0.0033874890068545938 s
+Matriz de 20x20
+Tiempo ensamblaje: 0.0016421930049546063 s
+Tiempo solución: 0.005889964988455176 s
+Matriz de 30x30
+Tiempo ensamblaje: 0.001513895986136049 s
+Tiempo solución: 0.008621043991297483 s
+Matriz de 50x50
+Tiempo ensamblaje: 0.0016431260155513883 s
+Tiempo solución: 0.017073201976018026 s
+Matriz de 70x70
+Tiempo ensamblaje: 0.002772133011603728 s
+Tiempo solución: 0.021770246006781235 s
+Matriz de 100x100
+Tiempo ensamblaje: 0.001567547005834058 s
+Tiempo solución: 0.030660012998851016 s
+Matriz de 150x150
+Tiempo ensamblaje: 0.0017065739957615733 s
+Tiempo solución: 0.040885925001930445 s
+Matriz de 200x200
+Tiempo ensamblaje: 0.0014499809767585248 s
+Tiempo solución: 0.05155831002048217 s
+Matriz de 400x400
+Tiempo ensamblaje: 0.001719636027701199 s
+Tiempo solución: 0.1477968499821145 s
+Matriz de 600x600
+Tiempo ensamblaje: 0.0017028420115821064 s
+Tiempo solución: 0.16905997498543002 s
+Matriz de 1000x1000
+Tiempo ensamblaje: 0.0016641200054436922 s
+Tiempo solución: 0.33757504101959057 s
+Matriz de 1500x1500
+Tiempo ensamblaje: 0.0017056410142686218 s
+Tiempo solución: 0.44508825897355564 s
+Matriz de 2000x2000
+Tiempo ensamblaje: 0.00171637098537758 s
+Tiempo solución: 0.6209605330077466 s
+Matriz de 2500x2500
+Tiempo ensamblaje: 0.0017476280045229942 s
+Tiempo solución: 0.8200940899841953 s
+Matriz de 3000x3000
+Tiempo ensamblaje: 0.0018306709825992584 s
+Tiempo solución: 1.028517698025098 s
+Matriz de 4000x4000
+Tiempo ensamblaje: 0.001965965988347307 s
+Tiempo solución: 1.4805325560155325 s
+Matriz de 5000x5000
+Tiempo ensamblaje: 0.0020093530183658004 s
+Tiempo solución: 1.9989670979848597 s
+Matriz de 7000x7000
+Tiempo ensamblaje: 0.0021866349852643907 s
+Tiempo solución: 3.263849932991434 s
+Matriz de 10000x10000
+Tiempo ensamblaje: 0.002426432998618111 s
+Tiempo solución: 5.548560841998551 s
+Matriz de 20000x20000
+Tiempo ensamblaje: 0.0034737969981506467 s
+Tiempo solución: 17.542565440002363 s
