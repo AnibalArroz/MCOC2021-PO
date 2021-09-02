@@ -341,9 +341,37 @@ plt.show()
 
 
 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+
+# Codigo Laplaciana
+
+from numpy import zeros, float64
+import numpy as np
+import scipy.sparse as sparse
+
+ 
+    
+    
+def matriz_laplaciana(N, t=float64):
+    d = sparse.eye(N, N, 1,  dtype = t) - sparse.eye(N, N, 1, dtype = t)
+    return 2*sparse.eye(N, dtype=t) -d - d.T
 
 
 
+
+N =10
+
+
+A = matriz_laplaciana(N)
 
 
 
